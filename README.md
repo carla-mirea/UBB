@@ -63,4 +63,33 @@ University projects and homework.
       </li>
     </ul>
   </li>
+  <li>:open_file_folder: Semester 5
+    <ul>
+      <li>
+        <a href="https://github.com/Carla021/sem4_MPP"> 
+          :accept:  Formal Languages and Compiler Design 
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/carla-mirea/Database-Management-Systems"> 
+          :airplane:  Mobile Applications
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/carla-mirea/Web-Programming"> 
+          :bell_pepper:  Parallel and distributed programming
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/carla-mirea/Web-Programming"> 
+          :alarm_clock:  VR
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/carla-mirea/Web-Programming"> 
+          :banjo:  Public Key Cryptography
+        </a>
+      </li>
+    </ul>
+  </li>
 </ul>
