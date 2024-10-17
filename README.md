@@ -6,7 +6,7 @@ University projects and homework.
     <ul>
       <li>
         <a href="https://github.com/Carla021/sem1_FundamentalsOfProgramming"> 
-          :abc: Fundamental of Programming 
+          :sun_with_face: Fundamental of Programming 
         </a>
       </li>
     </ul>
@@ -15,12 +15,12 @@ University projects and homework.
     <ul>
       <li>
         <a href="https://github.com/Carla021/sem2_DataStructuresAndAlgorithms"> 
-          :bison:  Data Structures and Algorithms 
+          :dromedary_camel:  Data Structures and Algorithms 
         </a>
       </li>
       <li>
         <a href="https://github.com/Carla021/sem2_ObjectOrientedProgramming"> 
-          :apple:  Object Oriented Programming 
+          :leopard:  Object Oriented Programming 
         </a>
       </li>
     </ul>
@@ -29,17 +29,17 @@ University projects and homework.
     <ul>
       <li>
         <a href="https://github.com/Carla021/sem3_AdvancedProgrammingMethods"> 
-          :8ball:  Advanced Methods of Programming 
+          :fish:  Advanced Methods of Programming 
         </a>
       </li>
       <li>
         <a href="https://github.com/Carla021/sem3_ComputerNetworks"> 
-          :floppy_disk:  Computer Networks 
+          :whale:  Computer Networks 
         </a>
       </li>
       <li>
         <a href="https://github.com/Carla021/sem3_Databases"> 
-          :newspaper:  Databases 
+          :dolphin:  Databases 
         </a>
       </li>
     </ul>
@@ -48,17 +48,17 @@ University projects and homework.
     <ul>
       <li>
         <a href="https://github.com/Carla021/sem4_MPP"> 
-          :8ball:  MPP
+          :baby_chick:  MPP
         </a>
       </li>
       <li>
         <a href="https://github.com/carla-mirea/Database-Management-Systems"> 
-          :abacus:  Database Management Systems
+          :hatched_chick:  Database Management Systems
         </a>
       </li>
       <li>
         <a href="https://github.com/carla-mirea/Web-Programming"> 
-          :accordion:  Web Programming
+          :hatching_chick:  Web Programming
         </a>
       </li>
     </ul>
@@ -66,28 +66,28 @@ University projects and homework.
   <li>:open_file_folder: Semester 5
     <ul>
       <li>
-        <a href="https://github.com/Carla021/sem4_MPP"> 
-          :accept:  Formal Languages and Compiler Design 
+        <a href="https://github.com/carla-mirea/Formal-Languages-and-Compiler-Design"> 
+          :cherry_blossom:  Formal Languages and Compiler Design 
         </a>
       </li>
       <li>
-        <a href="https://github.com/carla-mirea/Database-Management-Systems"> 
-          :airplane:  Mobile Applications
+        <a href="https://github.com/carla-mirea/Mobile-Applications"> 
+          :tulip:  Mobile Applications
         </a>
       </li>
       <li>
-        <a href="https://github.com/carla-mirea/Web-Programming"> 
-          :bell_pepper:  Parallel and distributed programming
+        <a href="https://github.com/carla-mirea/Parallel-and-distributed-programming"> 
+          :hibiscus:  Parallel and distributed programming
         </a>
       </li>
       <li>
-        <a href="https://github.com/carla-mirea/Web-Programming"> 
-          :alarm_clock:  VR
+        <a href="https://github.com/carla-mirea/VR"> 
+          :bouquet:  VR
         </a>
       </li>
       <li>
-        <a href="https://github.com/carla-mirea/Web-Programming"> 
-          :banjo:  Public Key Cryptography
+        <a href="https://github.com/carla-mirea/Public-Key-Cryptography"> 
+          :four_leaf_clover:  Public Key Cryptography
         </a>
       </li>
     </ul>
